@@ -28,7 +28,7 @@ File Handling: Implemented file handling for saving and loading game progress.
 
 Collaborative Development:
 
-This project is the result of a successful partnership between [Your Name] and [Your Partner's Name]. Our collaborative development process allowed us to combine our unique skills and perspectives, resulting in a well-rounded and engaging final project.
+This project is the result of a successful partnership between Talha Rauf and Uzair Azam. Our collaborative development process allowed us to combine our unique skills and perspectives, resulting in a well-rounded and engaging final project.
 
 Conclusion:
 
